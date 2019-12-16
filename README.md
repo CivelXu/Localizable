@@ -1,0 +1,2 @@
+# Localizable
+Localizable App strings
